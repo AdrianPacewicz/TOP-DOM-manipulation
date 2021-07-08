@@ -1,2 +1,3 @@
-# TOP-DOM-manipulation
-TheOdinProject web development course - JavaScript DOM manipulation
+# TheOdinProject - JavaScript DOM manipulation
+
+JavaScript DOM manipulation exercise.
