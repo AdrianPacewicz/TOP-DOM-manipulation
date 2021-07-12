@@ -1,3 +1,6 @@
 # TheOdinProject - JavaScript DOM manipulation
 
-JavaScript DOM manipulation exercise.
+JavaScript DOM manipulation exercises.
+
+- exercise.html -- Basic exercise
+- index.html -- Drum exercise
