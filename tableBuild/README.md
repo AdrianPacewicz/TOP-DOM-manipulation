@@ -1,3 +1,3 @@
 # TheOdinProject - JavaScript DOM manipulation
 
-JavaScript DOM manipulation exercises.
+JavaScript table exercise.
